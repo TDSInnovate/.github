@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../assets/tdsinnovate_color_logo.png" alt="TDS Innovate" width="260">
+  <img src="./assets/tdsinnovate_color_logo.png" alt="TDS Innovate" width="260">
 </p>
 
 <br>
